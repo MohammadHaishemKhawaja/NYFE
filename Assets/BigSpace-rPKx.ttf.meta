@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5995102a9162eb54d8f026e2e39ae393
+timeCreated: 1611714609
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Big Space
+  fontNames:
+  - Big Space
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

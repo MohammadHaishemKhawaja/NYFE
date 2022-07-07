@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: b92b01428d0a6184dba199b6d74087b6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DAG0bmWVwAE-6gW_0
+    21300002: DAG0bmWVwAE-6gW_1
+    21300004: DAG0bmWVwAE-6gW_2
+    21300006: DAG0bmWVwAE-6gW_3
+    21300008: DAG0bmWVwAE-6gW_4
+    21300010: DAG0bmWVwAE-6gW_5
+    21300012: DAG0bmWVwAE-6gW_6
+    21300014: DAG0bmWVwAE-6gW_7
+    21300016: DAG0bmWVwAE-6gW_8
+    21300018: DAG0bmWVwAE-6gW_9
+    21300020: DAG0bmWVwAE-6gW_10
+    21300022: DAG0bmWVwAE-6gW_11
+    21300024: DAG0bmWVwAE-6gW_12
+    21300026: DAG0bmWVwAE-6gW_13
+    21300028: DAG0bmWVwAE-6gW_14
+    21300030: DAG0bmWVwAE-6gW_15
+    21300032: DAG0bmWVwAE-6gW_16
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1798
+        width: 286
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4485e17ab01f4522bb3752267d7e6d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_1
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1820
+        width: 286
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177f08b9a8a76408dae72dad1dd42897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_2
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1894
+        width: 434
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b3045f050e40968792cb5cf0e9858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_3
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1915
+        width: 498
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8306a6d0c53492790d47cfd58f1fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_4
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1925
+        width: 540
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81bb485944004c74976da088f515069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1290
+        width: 582
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df902baae30a643d28d1aeea6314ab43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1237
+        width: 456
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50b16e149a4e427ea901597b1f2afaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_7
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1216
+        width: 371
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff52912b4354081a29900cbc7bb132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_8
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1131
+        width: 360
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7c78fecfb24230ab4d0e5389668e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_9
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1237
+        width: 264
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ff08545f854506a50fb882993095f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 506
+        width: 434
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ccd9e7fecc45058f57ece816b7260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 516
+        width: 445
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe10ae3e2b3a437881f4ecfb398b6d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_12
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 601
+        width: 604
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63107b563fa04d4aba627625f3b9999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_13
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 527
+        width: 678
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0124ca16b64249ff977d7a9c9790dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_14
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 82
+        width: 445
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660be33cc286346d3b04e76eb4e5221b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 50
+        width: 540
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df6f23542a44e4c81e6b54e08faff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAG0bmWVwAE-6gW_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 50
+        width: 573
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e03e4b23aa54314aea51cfdc4b519c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
